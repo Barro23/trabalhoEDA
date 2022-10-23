@@ -1,0 +1,33 @@
+.menuFlutuante{
+    background-image: url(../imagens/menu1.jpg);
+    width: 100%;
+    height: 140px;
+    position: fixed;
+}
+#um{
+    display: flex;
+    flex-flow: col wrap;
+}
+#um ul li{
+    display: inline;
+}
+#um ul li a{
+    color: white;
+    text-decoration: none;
+    padding: 5px 20px;
+}
+#um ul li a:hover{
+    color: rgb(68, 86, 250);
+    background-color: white;
+}
+
+.meio{
+    background-image: url(../imagens/meio1.jpg);
+    width: 100%;
+    height: 547px;
+}
+.meio a center{
+    color: rgb(61, 1, 85);
+    text-decoration: none;
+    padding: 5px 20px;
+} 
