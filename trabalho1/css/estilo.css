@@ -1,5 +1,5 @@
 .menuFlutuante{
-    background-image: url(../imagens/menu1.jpg);
+    background-image: url(../imagens/menu2.jpg);
     width: 100%;
     height: 140px;
     position: fixed;
@@ -31,3 +31,28 @@
     text-decoration: none;
     padding: 5px 20px;
 } 
+#dois{
+    display: inline-block;
+    width: 30%;
+    vertical-align: top;
+}
+.final{
+    background-color: black;
+    width: 100%;
+    height: 100px;
+}
+.final center h1 a{
+    color: white;
+    text-decoration: none;
+    padding: 5px 20px;
+}
+.final center h1 a:hover{
+    color: rgb(255, 0, 170);
+    background-color: rgb(43, 43, 43);
+}
+.text{
+    width: 50%; float: left;
+}
+.img{
+    width: 50%; float: left;
+}
