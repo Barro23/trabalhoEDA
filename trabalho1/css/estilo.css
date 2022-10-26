@@ -86,3 +86,10 @@ body{
     flex-flow: col wrap;
     justify-content: center;
 }
+#quatro{
+    background-color: rgb(238, 238, 238);
+    width: 35%;
+    height: 10%;
+    border: solid 3px #000;
+    border-radius: 10px;
+}
