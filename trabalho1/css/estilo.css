@@ -80,6 +80,9 @@ body{
     height: 10%;
     border: solid 3px #000;
     border-radius: 10px;
+}
+.campanhas{
     display: flex;
+    flex-flow: col wrap;
     justify-content: center;
 }
