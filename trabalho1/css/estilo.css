@@ -6,6 +6,7 @@ body{
     width: 100%;
     height: 140px;
     position: fixed;
+    border-radius: 15px;
 }
 #um{
     display: flex;
@@ -23,11 +24,14 @@ body{
     color: rgb(68, 86, 250);
     background-color: white;
 }
-
+.fim font center details ul{
+    list-style-type: none;
+}
 .meio{
     background-image: url(../imagens/meio1.jpg);
     width: 100%;
     height: 547px;
+    border-radius: 21px;
 }
 .meio a center{
     color: rgb(61, 1, 85);
@@ -43,6 +47,7 @@ body{
     background-color: black;
     width: 100%;
     height: 100px;
+    border-radius: 15px;
 }
 .final center h1 a{
     color: white;
@@ -63,6 +68,7 @@ body{
     background-image: url(../imagens/itiquira.jpg);
     width: 100%;
     height: 850px;
+    border-radius: 15px;
 }
 .dois{
     display: flex;
